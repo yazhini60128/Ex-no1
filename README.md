@@ -4,6 +4,7 @@
 ## AIM
 
 To write and execute Assembly Language Programs to perform arithmetic operations for the 8086 microprocessor.
+<img width="744" height="1280" alt="WhatsApp Image 2026-10-30 at 10 27 51 AM" src="https://github.com/user-attachments/assets/c202eca9-bdbf-43e2-8725-bf4ceb60ef18" />
 
 ---
 
@@ -32,6 +33,7 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 
 
 #### Program
+<img width="756" height="1280" alt="WhatsApp Image 2026-10-30 at 10 27 52 AM" src="https://github.com/user-attachments/assets/5c9de209-09f2-4b78-b92a-fb386a8608e1" />
 
 ```asm
 CODE SEGMENT
@@ -83,7 +85,9 @@ END
 <img width="578" height="797" alt="image" src="https://github.com/user-attachments/assets/564c3c7a-33ce-4a1c-8920-beb5c24b9b47" />
 
 
-#### Program
+#### Program 
+<img width="756" height="1280" alt="WhatsApp Image 2026-10-30 at 10 27 52 AM" src="https://github.com/user-attachments/assets/ca47dc49-a2d4-4021-a65c-b799b6d4e806" />
+
 ```asm
 CODE SEGMENT
 ASSUME CS: CODE, DS: CODE
@@ -136,6 +140,7 @@ END
 
 
 #### Program
+<img width="748" height="1280" alt="WhatsApp Image 2026-10-30 at 10 27 52 AM (1)" src="https://github.com/user-attachments/assets/5de0e757-f11a-42aa-bffe-9c31982e1501" />
 
 ```asm
 CODE SEGMENT
@@ -181,6 +186,7 @@ END
 
 
 #### Program
+<img width="827" height="1280" alt="WhatsApp Image 2026-10-30 at 10 27 52 AM (2)" src="https://github.com/user-attachments/assets/24b7bd82-c017-4ff6-9df2-e4c16215acc6" />
 
 ```asm
 CODE SEGMENT

@@ -4,7 +4,7 @@
 ## AIM
 
 To write and execute Assembly Language Programs to perform arithmetic operations for the 8086 microprocessor.
-<img width="744" height="1280" alt="WhatsApp Image 2026-10-30 at 10 27 51 AM" src="https://github.com/user-attachments/assets/c202eca9-bdbf-43e2-8725-bf4ceb60ef18" />
+
 
 ---
 
@@ -33,7 +33,7 @@ To write and execute Assembly Language Programs to perform arithmetic operations
 
 
 #### Program
-<img width="756" height="1280" alt="WhatsApp Image 2026-10-30 at 10 27 52 AM" src="https://github.com/user-attachments/assets/5c9de209-09f2-4b78-b92a-fb386a8608e1" />
+
 
 ```asm
 CODE SEGMENT
@@ -86,7 +86,7 @@ END
 
 
 #### Program 
-<img width="756" height="1280" alt="WhatsApp Image 2026-10-30 at 10 27 52 AM" src="https://github.com/user-attachments/assets/ca47dc49-a2d4-4021-a65c-b799b6d4e806" />
+
 
 ```asm
 CODE SEGMENT

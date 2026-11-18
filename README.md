@@ -141,7 +141,7 @@ END
 
 
 #### Program
-<img width="748" height="1280" alt="WhatsApp Image 2026-10-30 at 10 27 52 AM (1)" src="https://github.com/user-attachments/assets/5de0e757-f11a-42aa-bffe-9c31982e1501" />
+
 
 ```asm
 CODE SEGMENT
@@ -188,7 +188,7 @@ END
 
 
 #### Program
-<img width="827" height="1280" alt="WhatsApp Image 2026-10-30 at 10 27 52 AM (2)" src="https://github.com/user-attachments/assets/24b7bd82-c017-4ff6-9df2-e4c16215acc6" />
+
 
 ```asm
 CODE SEGMENT
